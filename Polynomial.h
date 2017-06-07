@@ -3,6 +3,7 @@
  * on it.
  * @author Duncan
  * @since 01-12-2017
+ * @note test
  */
 
 #ifndef POLYNOMIAL_H
