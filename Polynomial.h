@@ -1,7 +1,7 @@
 /**
  * Describes a univariate polynomial and basic operations
  * on it.
- * @author Duncan
+ * @author W. Duncan
  * @since 01-12-2017
  */
 
